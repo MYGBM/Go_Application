@@ -1,3 +1,3 @@
 # Go_Application
-My first Go application an http server 
+My first Go application a server and command line poker game application
 
